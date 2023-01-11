@@ -21,7 +21,16 @@ In the second analysis, data from a martian mission was scraped and transformed 
 1. There are 12 Martian months.
 2. There are 1867 martian days worth of data from the mission.
 3. The average monthly temperature looks as follows:
-  a. ![month_temp](https://github.com/bchillman/Mission-To-Mars/blob/main/Data/average_month_temp.png)
+  a. <img src="https://github.com/bchillman/Mission-To-Mars/blob/main/Data/average_month_temp.png" width="609" height="420">
   
   b. When sorted from lowest temperature to highest (as seen below), we can see that the third month is the coldest and the eighth month is the warmest
-  ![sorted_temp](https://github.com/bchillman/Mission-To-Mars/blob/main/Data/sorted_month_temp.png)
+  
+<img src="https://github.com/bchillman/Mission-To-Mars/blob/main/Data/sorted_month_temp.png" width="609" height="420">
+
+4. The average pressure by month is shown below:
+<img src="https://github.com/bchillman/Mission-To-Mars/blob/main/Data/sorted_month_temp.png" width="609" height="420">
+
+5. Finally the temperature is plotted by day, to determine how long a Martian year is:
+<img src="https://github.com/bchillman/Mission-To-Mars/blob/main/Data/daily_temp.png" width="609" height="420">
+
+Looking from peak-to-peak or trough-to-trough, this periodic graph has a period of 700 +/- 50 days. This would be indicative of the Martian year. Internet search does confirm that the average Martian year is 687 days.
