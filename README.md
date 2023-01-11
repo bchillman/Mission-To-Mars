@@ -21,4 +21,7 @@ In the second analysis, data from a martian mission was scraped and transformed 
 1. There are 12 Martian months.
 2. There are 1867 martian days worth of data from the mission.
 3. The average monthly temperature looks as follows:
-  a.
+  a. ![month_temp](https://github.com/bchillman/Mission-To-Mars/blob/main/Data/average_month_temp.png)
+  
+  b. When sorted from lowest temperature to highest (as seen below), we can see that the third month is the coldest and the eighth month is the warmest
+  ![sorted_temp](https://github.com/bchillman/Mission-To-Mars/blob/main/Data/sorted_month_temp.png)
